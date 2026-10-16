@@ -1,0 +1,21 @@
+Personal Mini-Toolkit Plan
+
+Tools
+1. Simple Calculator: Ask for two numbers and an operation, then show the result. It checks for invalid operations and division by zero.
+2. To-Do List: Let the user add, view, and remove tasks while the program is running.
+3. Number Guessing Game: Pick a random number from 1 to 10 and let the user keep guessing until they get it right.
+
+Exact menu text
+Welcome to your Personal Mini-Toolkit!
+Choose a tool:
+1. Simple Calculator
+2. To-Do List
+3. Number Guessing Game
+4. Quit
+Enter your choice (1-4):
+
+Concepts used
+- Calculator: input/output, float conversion, conditionals, f-strings.
+- To-Do List: input/output, a changing list, loops, conditionals, f-strings.
+- Number Guessing Game: random numbers, a loop, conditionals, input/output, f-strings.
+- Main menu: loop, if/elif/else, input validation, friendly messages.
